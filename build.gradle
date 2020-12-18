@@ -1,0 +1,40 @@
+plugins {
+    id 'org.springframework.boot' version '2.4.0'
+    id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+    id 'java'
+}
+
+group = 'com.vsu.by'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '15'
+
+def MAPSTRUCT_VERSION = '1.4.1.Final'
+def GSON_VERSION = '2.8.6'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url 'https://repo.spring.io/milestone' }
+    maven { url 'https://repo.spring.io/snapshot' }
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-data-rest'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation "org.mapstruct:mapstruct:${MAPSTRUCT_VERSION}"
+    compile group: 'com.google.code.gson', name: 'gson', version: "${GSON_VERSION}"
+    compileOnly 'org.projectlombok:lombok'
+    runtimeOnly 'org.postgresql:postgresql'
+    annotationProcessor 'org.projectlombok:lombok'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+test {
+    useJUnitPlatform()
+}
