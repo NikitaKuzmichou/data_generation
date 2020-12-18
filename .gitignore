@@ -1,0 +1,11 @@
+.idea/
+
+.gradle/
+
+out/
+
+build/
+
+.idea_modules/
+
+atlassian-ide-plugin.xml
