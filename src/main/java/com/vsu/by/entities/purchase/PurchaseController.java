@@ -1,5 +1,7 @@
 package com.vsu.by.entities.purchase;
 
+import com.vsu.by.entities.purchase.dtos.PurchaseDto;
+import com.vsu.by.entities.purchase.dtos.PurchaseMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,12 +18,13 @@ import java.util.List;
 public class PurchaseController {
     @Autowired
     private PurchaseService service;
+    @Autowired
+    private PurchaseMapper mapper;
 
     @GetMapping
-    public ResponseEntity<List<Purchase>> getPurchases() {
-        /**TODO recursive data returning. need Mapstruct*/
+    public ResponseEntity<List<PurchaseDto>> getPurchases() {
         return new ResponseEntity<>(
-                this.service.findAll(),
+                this.mapper.toPurchaseDto(this.service.findAll()),
                 HttpStatus.OK
         );
     }

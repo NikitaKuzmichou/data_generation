@@ -1,5 +1,7 @@
 package com.vsu.by.entities.customer;
 
+import com.vsu.by.entities.customer.dtos.CustomerDto;
+import com.vsu.by.entities.customer.dtos.CustomerMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,12 +18,13 @@ import java.util.List;
 public class CustomerController {
     @Autowired
     private CustomerService service;
+    @Autowired
+    private CustomerMapper mapper;
 
     @GetMapping
-    public ResponseEntity<List<Customer>> getCustomers() {
-        /**TODO recursive data returning. need Mapstruct*/
+    public ResponseEntity<List<CustomerDto>> getCustomers() {
         return new ResponseEntity<>(
-                this.service.findAll(),
+                this.mapper.toCustomerDto(this.service.findAll()),
                 HttpStatus.OK
         );
     }

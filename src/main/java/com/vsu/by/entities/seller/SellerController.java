@@ -1,5 +1,7 @@
 package com.vsu.by.entities.seller;
 
+import com.vsu.by.entities.seller.dtos.SellerDto;
+import com.vsu.by.entities.seller.dtos.SellerMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,11 +18,13 @@ import java.util.List;
 public class SellerController {
     @Autowired
     private SellerService service;
+    @Autowired
+    private SellerMapper mapper;
 
     @GetMapping
-    public ResponseEntity<List<Seller>> getSellers() {
+    public ResponseEntity<List<SellerDto>> getSellers() {
         return new ResponseEntity<>(
-                this.service.findAll(),
+                this.mapper.toSellerDto(this.service.findAll()),
                 HttpStatus.OK
         );
     }

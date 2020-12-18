@@ -1,5 +1,7 @@
 package com.vsu.by.entities.product;
 
+import com.vsu.by.entities.product.dtos.ProductDto;
+import com.vsu.by.entities.product.dtos.ProductMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,12 +18,13 @@ import java.util.List;
 public class ProductController {
     @Autowired
     private ProductService service;
+    @Autowired
+    private ProductMapper mapper;
 
     @GetMapping
-    public ResponseEntity<List<Product>> getProducts() {
-        /**TODO recursive data returning. need Mapstruct*/
+    public ResponseEntity<List<ProductDto>> getProducts() {
         return new ResponseEntity<>(
-                this.service.findAll(),
+                this.mapper.toProductDto(this.service.findAll()),
                 HttpStatus.OK
         );
     }

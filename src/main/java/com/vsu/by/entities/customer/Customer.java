@@ -21,7 +21,6 @@ public class Customer {
     private String patronymic;
     @OneToMany(mappedBy = "customer")
     private List<Purchase> purchases;
-    /**TODO many to many preferences*/
     @ManyToMany
     @JoinTable(
             name = "prefences",

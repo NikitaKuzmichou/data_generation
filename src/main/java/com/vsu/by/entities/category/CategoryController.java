@@ -1,5 +1,7 @@
 package com.vsu.by.entities.category;
 
+import com.vsu.by.entities.category.dtos.CategoryDto;
+import com.vsu.by.entities.category.dtos.CategoryMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,11 +18,13 @@ import java.util.List;
 public class CategoryController {
     @Autowired
     private CategoryService service;
+    @Autowired
+    private CategoryMapper mapper;
 
     @GetMapping
-    public ResponseEntity<List<Category>> getCustomers() {
+    public ResponseEntity<List<CategoryDto>> getCustomers() {
         return new ResponseEntity<>(
-                this.service.findAll(),
+                this.mapper.toCategoryDto(this.service.findAll()),
                 HttpStatus.OK
         );
     }
