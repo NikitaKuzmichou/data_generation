@@ -1,4 +1,4 @@
-package com.vsu.by.service.serialization;
+package com.vsu.by.service.files;
 
 import com.google.gson.Gson;
 import org.springframework.stereotype.Service;
@@ -16,17 +16,13 @@ public class Serializer {
     }
 
     public boolean serialize(String path, Object obj) {
-        try {
-            BufferedWriter writer = this.getWriter(path);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(path))) {
             writer.write(this.gson.toJson(obj));
-            writer.close();
         } catch (IOException e) {
+            System.err.println(e.getMessage());
             return false;
         }
         return true;
     }
 
-    private BufferedWriter getWriter(String path) throws IOException {
-        return new BufferedWriter(new FileWriter(path));
-    }
 }

@@ -1,0 +1,50 @@
+[
+  {
+    "ProductAdditional" : {
+      "name": "GTX",
+      "costModifier": 1.2
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "RTX",
+      "costModifier": 3.5
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "GIGABYTE",
+      "costModifier": 1.25
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "PALIT",
+      "costModifier": 0.98
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "OC",
+      "costModifier": 1.035
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "super",
+      "costModifier": 1.4
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "MSI",
+      "costModifier": 1.2
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "",
+      "costModifier": 0
+    }
+  }
+]

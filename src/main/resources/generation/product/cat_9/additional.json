@@ -1,0 +1,32 @@
+[
+  {
+    "ProductAdditional" : {
+      "name": "Б\\У",
+      "costModifier": 0.5
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "подержанное",
+      "costModifier": 0.3
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "новое",
+      "costModifier": 1.0
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "распродажа",
+      "costModifier": 0.75
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "на заказ",
+      "costModifier": 2.4
+    }
+  }
+]

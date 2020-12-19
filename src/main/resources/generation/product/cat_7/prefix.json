@@ -1,0 +1,26 @@
+[
+  {
+    "ProductPrefix" : {
+      "name": "Новый",
+      "costModifier": 1.2
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Б\\У",
+      "costModifier": 0.7
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "давно в использовании",
+      "costModifier": 0.4
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Высшего качества",
+      "costModifier": 3.1
+    }
+  }
+]

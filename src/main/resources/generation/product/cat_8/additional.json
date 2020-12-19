@@ -1,0 +1,20 @@
+[
+  {
+    "ProductAdditional" : {
+      "name": "Б\\У",
+      "costModifier": 0.5
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "классическое",
+      "costModifier": 1.0
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "ограниченный тираж",
+      "costModifier": 1.75
+    }
+  }
+]

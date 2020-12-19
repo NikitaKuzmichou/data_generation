@@ -1,0 +1,26 @@
+[
+  {
+    "ProductAdditional" : {
+      "name": "Blue-ray",
+      "costModifier": 3.0
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "Цифровое издание",
+      "costModifier": 0.5
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "Билет в кино на любой ряд",
+      "costModifier": 1.0
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "Билет в кино на первый ряд",
+      "costModifier": 1.5
+    }
+  }
+]

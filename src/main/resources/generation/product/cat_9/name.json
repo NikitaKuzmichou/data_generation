@@ -1,0 +1,86 @@
+[
+  {
+    "Product" : {
+      "name": "Игральная кость",
+      "basePrice": 0.7
+    }
+  },
+  {
+    "Product" : {
+      "name": "Набор игральных костей",
+      "basePrice": 3.7
+    }
+  },
+  {
+    "Product" : {
+      "name": "Набор гелевых ручек",
+      "basePrice": 1
+    }
+  },
+  {
+    "Product" : {
+      "name": "Набор для ремонта автомобиля",
+      "basePrice": 42
+    }
+  },
+  {
+    "Product" : {
+      "name": "Набор отвёрток",
+      "basePrice": 39
+    }
+  },
+  {
+    "Product" : {
+      "name": "Гаечный ключ",
+      "basePrice": 3
+    }
+  },
+  {
+    "Product" : {
+      "name": "Гвоздодёр",
+      "basePrice": 7.6
+    }
+  },
+  {
+    "Product" : {
+      "name": "Коллекция монет",
+      "basePrice": 1503
+    }
+  },
+  {
+    "Product" : {
+      "name": "Неоновая лента",
+      "basePrice": 15
+    }
+  },
+  {
+    "Product" : {
+      "name": "Кожаные туфли",
+      "basePrice": 65
+    }
+  },
+  {
+    "Product" : {
+      "name": "Пострадавший робот boston dynamics",
+      "basePrice": 8080
+    }
+  },
+  {
+    "Product" : {
+      "name": "Голосовой помощник Алиса",
+      "basePrice": 963
+    }
+  },
+  {
+    "Product" : {
+      "name": "Именная футболка игрока в футбол",
+      "basePrice": 421.32
+    }
+  },
+  {
+    "Product": {
+      "name": "Уникальная кассетная запись ТВ передачи",
+      "basePrice": 99.99
+    }
+  }
+]

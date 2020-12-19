@@ -1,0 +1,74 @@
+[
+  {
+    "Product" : {
+      "name": "Зелёная миля",
+      "basePrice": 15
+    }
+  },
+  {
+    "Product" : {
+      "name": "Побег из Шоушенка",
+      "basePrice": 17
+    }
+  },
+  {
+    "Product" : {
+      "name": "Интерстеллар",
+      "basePrice": 20
+    }
+  },
+  {
+    "Product" : {
+      "name": "Форест Гамп",
+      "basePrice": 25
+    }
+  },
+  {
+    "Product" : {
+      "name": "Аватар",
+      "basePrice": 23
+    }
+  },
+  {
+    "Product" : {
+      "name": "1+1",
+      "basePrice": 30
+    }
+  },
+  {
+    "Product" : {
+      "name": "Властелин колец: две крепости",
+      "basePrice": 40
+    }
+  },
+  {
+    "Product" : {
+      "name": "Клаус",
+      "basePrice": 10
+    }
+  },
+  {
+    "Product" : {
+      "name": "Назад в будущее",
+      "basePrice": 5
+    }
+  },
+  {
+    "Product" : {
+      "name": "Большой куш",
+      "basePrice": 43
+    }
+  },
+  {
+    "Product" : {
+      "name": "Джентельмены",
+      "basePrice": 32
+    }
+  },
+  {
+    "Product" : {
+      "name": "Леон",
+      "basePrice": 21
+    }
+  }
+]

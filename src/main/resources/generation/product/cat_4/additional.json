@@ -1,0 +1,20 @@
+[
+  {
+    "ProductAdditional" : {
+      "name": "высшего качества",
+      "costModifier": 2
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "обычное качество",
+      "costModifier": 1.0
+    }
+  },
+  {
+    "ProductAdditional" : {
+      "name": "эксклюзивная серия",
+      "costModifier": 3
+    }
+  }
+]

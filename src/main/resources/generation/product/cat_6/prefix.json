@@ -1,0 +1,20 @@
+[
+  {
+    "ProductPrefix" : {
+      "name": "Свежий",
+      "costModifier": 2.0
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Полежавший",
+      "costModifier": 1.0
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Только привезённый",
+      "costModifier": 2.3
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ProductPrefix" : {
+      "name": "",
+      "costModifier": 1
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Высококачественное",
+      "costModifier": 1.7
+    }
+  },
+  {
+    "ProductPrefix" : {
+      "name": "Низкокачественное",
+      "costModifier": 0.4
+    }
+  }
+]

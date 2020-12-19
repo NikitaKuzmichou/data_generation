@@ -1,0 +1,80 @@
+[
+  {
+    "Product" : {
+      "name": "Арбуз",
+      "basePrice": 3
+    }
+  },
+  {
+    "Product" : {
+      "name": "Дыня",
+      "basePrice": 4
+    }
+  },
+  {
+    "Product" : {
+      "name": "Груша",
+      "basePrice": 1.5
+    }
+  },
+  {
+    "Product" : {
+      "name": "Виноград",
+      "basePrice": 3.4
+    }
+  },
+  {
+    "Product" : {
+      "name": "Яблоки",
+      "basePrice": 5.4
+    }
+  },
+  {
+    "Product" : {
+      "name": "Вишня",
+      "basePrice": 3.2
+    }
+  },
+  {
+    "Product" : {
+      "name": "Лимон",
+      "basePrice": 6
+    }
+  },
+  {
+    "Product" : {
+      "name": "Мандарин",
+      "basePrice": 3.3
+    }
+  },
+  {
+    "Product" : {
+      "name": "Апельсин",
+      "basePrice": 4.6
+    }
+  },
+  {
+    "Product" : {
+      "name": "Нектарин",
+      "basePrice": 3.9
+    }
+  },
+  {
+    "Product" : {
+      "name": "Персик",
+      "basePrice": 7.5
+    }
+  },
+  {
+    "Product" : {
+      "name": "Ананас",
+      "basePrice": 10
+    }
+  },
+  {
+    "Product" : {
+      "name": "Абрикос",
+      "basePrice": 4.2
+    }
+  }
+]

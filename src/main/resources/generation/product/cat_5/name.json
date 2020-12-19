@@ -1,0 +1,68 @@
+[
+  {
+    "Product" : {
+      "name": "Картофель",
+      "basePrice": 1
+    }
+  },
+  {
+    "Product" : {
+      "name": "Морковь",
+      "basePrice": 2
+    }
+  },
+  {
+    "Product" : {
+      "name": "Свекла",
+      "basePrice": 3
+    }
+  },
+  {
+    "Product" : {
+      "name": "Лук",
+      "basePrice": 1.5
+    }
+  },
+  {
+    "Product" : {
+      "name": "Чеснок",
+      "basePrice": 2.3
+    }
+  },
+  {
+    "Product" : {
+      "name": "Перец",
+      "basePrice": 3.4
+    }
+  },
+  {
+    "Product" : {
+      "name": "Тыква",
+      "basePrice": 5.1
+    }
+  },
+  {
+    "Product" : {
+      "name": "Салат",
+      "basePrice": 3.25
+    }
+  },
+  {
+    "Product" : {
+      "name": "Укроп",
+      "basePrice": 1.2
+    }
+  },
+  {
+    "Product" : {
+      "name": "Чечевица",
+      "basePrice": 2.7
+    }
+  },
+  {
+    "Product" : {
+      "name": "Кукуруза",
+      "basePrice": 3.7
+    }
+  }
+]
