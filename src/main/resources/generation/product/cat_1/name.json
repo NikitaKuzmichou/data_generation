@@ -1,96 +1,96 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 1060",
       "basePrice": 200
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 3070",
       "basePrice": 2500
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 2070",
       "basePrice": 1600
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 1660",
       "basePrice": 750
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 570",
       "basePrice": 300
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 1440",
       "basePrice": 150
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 590",
       "basePrice": 450
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 1650",
       "basePrice": 500
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 470",
       "basePrice": 180
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Видеокарта 3090",
       "basePrice": 3200
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Блок питания Chieftec",
       "basePrice": 400
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Блок питания Xilence 600В",
       "basePrice": 500
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Блок питания Deepcool 600В",
       "basePrice": 350
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Блок питания AeroCool 600В",
       "basePrice": 1
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Материнская плата MSI",
       "basePrice": 600
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Материнская плата GIGABYTE",
       "basePrice": 0
     }

@@ -1,78 +1,78 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Настольная игра мафия",
       "basePrice": 22
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Настольная игра манчкин",
       "basePrice": 31
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "D&D 5 редакция книга игрока",
       "basePrice": 45
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "D&D 5 редакция книга мастера",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Сборник правил киберпанк 2020",
       "basePrice": 37.1
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "DOOM eternal",
       "basePrice": 60
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Duke nukem anniversary world tour",
       "basePrice": 25
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Dishonored",
       "basePrice": 43
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Dishonored 2",
       "basePrice": 47
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Монополия",
       "basePrice": 15
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Кегли дома",
       "basePrice": 17
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Настольная ролевая игра Pathfinder",
       "basePrice": 39.6
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Dark souls 3",
       "basePrice": 67
     }

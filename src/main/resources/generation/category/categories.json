@@ -1,60 +1,60 @@
 [
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 1,
       "name": "Компьютерные комплектующие"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 2,
       "name": "Книги"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 3,
       "name": "Фильмы"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 4,
       "name": "Бытовая техника"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 5,
       "name": "Овощи"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 6,
       "name": "Фрукты"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 7,
       "name": "Спорт товары"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 8,
       "name": "Игры"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 9,
       "name": "Разное"
     }
   },
   {
-    "Category": {
+    "GeneratedCategory": {
       "id": 10,
       "name": "Для дома"
     }

@@ -1,108 +1,108 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 1 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 2 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 3 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 4 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 5 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Ведьмак 6 Анджей Сапковский",
       "basePrice": 50
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Говар Лавкрафт Мифы ктулху",
       "basePrice": 30
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 1",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 2",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 3",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 4",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 5",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 6",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 7",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 8",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Глен Кук Чёрный отряд 9",
       "basePrice": 55
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Джейсон Шрейер Кровь пот и пиксели",
       "basePrice": 40
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Р. Лафоре ООП в c++",
       "basePrice": 100
     }

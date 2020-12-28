@@ -5,7 +5,9 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 @Data
 @NoArgsConstructor
@@ -21,4 +23,11 @@ public class Seller {
     private String organization;
     @OneToMany(mappedBy = "seller")
     private List<Product> product;
+
+    public void addProduct(final Product product) {
+        if (Objects.isNull(this.product)) {
+            this.product = new ArrayList<>();
+        }
+        this.product.add(product);
+    }
 }

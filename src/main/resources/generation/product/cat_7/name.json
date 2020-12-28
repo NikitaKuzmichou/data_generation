@@ -1,48 +1,48 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Гантели",
       "basePrice": 52
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Штанга",
       "basePrice": 100
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Беговая дорожка",
       "basePrice": 400
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Велотренажёр",
       "basePrice": 500
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Коврик для йоги",
       "basePrice": 45
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Футбольный мяч",
       "basePrice": 70
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Баскетбольный мяч",
       "basePrice": 60
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Теннисный мяч",
       "basePrice": 15
     }

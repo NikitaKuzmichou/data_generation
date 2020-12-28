@@ -1,84 +1,84 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Игральная кость",
       "basePrice": 0.7
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Набор игральных костей",
       "basePrice": 3.7
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Набор гелевых ручек",
       "basePrice": 1
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Набор для ремонта автомобиля",
       "basePrice": 42
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Набор отвёрток",
       "basePrice": 39
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Гаечный ключ",
       "basePrice": 3
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Гвоздодёр",
       "basePrice": 7.6
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Коллекция монет",
       "basePrice": 1503
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Неоновая лента",
       "basePrice": 15
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Кожаные туфли",
       "basePrice": 65
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Пострадавший робот boston dynamics",
       "basePrice": 8080
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Голосовой помощник Алиса",
       "basePrice": 963
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Именная футболка игрока в футбол",
       "basePrice": 421.32
     }
   },
   {
-    "Product": {
+    "GeneratedProduct": {
       "name": "Уникальная кассетная запись ТВ передачи",
       "basePrice": 99.99
     }

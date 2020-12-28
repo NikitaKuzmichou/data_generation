@@ -1,72 +1,72 @@
 [
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Лопата",
       "basePrice": 3
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Топор",
       "basePrice": 4
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Шкаф на всю стену",
       "basePrice": 14
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Зеркало",
       "basePrice": 2.8
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Входная дверь",
       "basePrice": 99
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Оконная рама",
       "basePrice": 113
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Заводная моделька кошки",
       "basePrice": 11.3
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Доски",
       "basePrice": 15
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Кухонный стол",
       "basePrice": 222
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Кафельная плитка",
       "basePrice": 151
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Щебень",
       "basePrice": 4.15
     }
   },
   {
-    "Product" : {
+    "GeneratedProduct" : {
       "name": "Двуспальная кровать",
       "basePrice": 431
     }
