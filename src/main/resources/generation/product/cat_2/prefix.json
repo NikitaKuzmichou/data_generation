@@ -1,26 +1,18 @@
 [
   {
-    "ProductPrefix" : {
-      "name": "Бестселлер",
-      "costModifier": 1.2
-    }
+    "name": "Бестселлер",
+    "costModifier": 1.2
   },
   {
-    "ProductPrefix" : {
-      "name": "Классика",
-      "costModifier": 1.1
-    }
+    "name": "Классика",
+    "costModifier": 1.1
   },
   {
-    "ProductPrefix" : {
-      "name": "Стандартное издание",
-      "costModifier": 1.0
-    }
+    "name": "Стандартное издание",
+    "costModifier": 1.0
   },
   {
-    "ProductPrefix" : {
-      "name": "Золотое издание",
-      "costModifier": 2.0
-    }
+    "name": "Золотое издание",
+    "costModifier": 2.0
   }
 ]

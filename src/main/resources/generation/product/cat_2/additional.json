@@ -1,32 +1,22 @@
 [
   {
-    "ProductAdditional" : {
-      "name": "мягкий переплёт",
-      "costModifier": 1.0
-    }
+    "name": "мягкий переплёт",
+    "costModifier": 1.0
   },
   {
-    "ProductAdditional" : {
-      "name": "цифровая версия",
-      "costModifier": 0.5
-    }
+    "name": "цифровая версия",
+    "costModifier": 0.5
   },
   {
-    "ProductAdditional" : {
-      "name": "твёрдый переплёт",
-      "costModifier": 1.5
-    }
+    "name": "твёрдый переплёт",
+    "costModifier": 1.5
   },
   {
-    "ProductAdditional" : {
-      "name": "глянцевое издание",
-      "costModifier": 2.0
-    }
+    "name": "глянцевое издание",
+    "costModifier": 2.0
   },
   {
-    "ProductAdditional" : {
-      "name": "уникальный ограниченный тираж",
-      "costModifier": 10.0
-    }
+    "name": "уникальный ограниченный тираж",
+    "costModifier": 10.0
   }
 ]

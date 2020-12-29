@@ -1,20 +1,14 @@
 [
   {
-    "ProductPrefix" : {
-      "name": "",
-      "costModifier": 1
-    }
+    "name": "",
+    "costModifier": 1
   },
   {
-    "ProductPrefix" : {
-      "name": "Низкокачественное",
-      "costModifier": 0.4
-    }
+    "name": "Низкокачественное",
+    "costModifier": 0.4
   },
   {
-    "ProductPrefix" : {
-      "name": "Высококачественное",
-      "costModifier": 1.5
-    }
+    "name": "Высококачественное",
+    "costModifier": 1.5
   }
 ]

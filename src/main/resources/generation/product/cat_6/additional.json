@@ -1,50 +1,34 @@
 [
   {
-    "ProductAdditional" : {
-      "name": "из Одессы",
-      "costModifier": 1.2
-    }
+    "name": "из Одессы",
+    "costModifier": 1.2
   },
   {
-    "ProductAdditional" : {
-      "name": "из Молдовы",
-      "costModifier": 1.3
-    }
+    "name": "из Молдовы",
+    "costModifier": 1.3
   },
   {
-    "ProductAdditional" : {
-      "name": "из Беларуси",
-      "costModifier": 1.6
-    }
+    "name": "из Беларуси",
+    "costModifier": 1.6
   },
   {
-    "ProductAdditional" : {
-      "name": "из Африки",
-      "costModifier": 4
-    }
+    "name": "из Африки",
+    "costModifier": 4
   },
   {
-    "ProductAdditional" : {
-      "name": "из Польши",
-      "costModifier": 2
-    }
+    "name": "из Польши",
+    "costModifier": 2
   },
   {
-    "ProductAdditional" : {
-      "name": "из Аргентины",
-      "costModifier": 2.5
-    }
+    "name": "из Аргентины",
+    "costModifier": 2.5
   },
   {
-    "ProductAdditional" : {
-      "name": "из Абхазии",
-      "costModifier": 3.5
-    }
+    "name": "из Абхазии",
+    "costModifier": 3.5
   },
   {
-    "ProductAdditional" : {
-      "name": "из Грузии",
-      "costModifier": 5.2
-    }
+    "name": "из Грузии",
+    "costModifier": 5.2
   }
 ]

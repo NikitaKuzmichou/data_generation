@@ -1,26 +1,18 @@
 [
   {
-    "ProductPrefix" : {
-      "name": "Новое",
-      "costModifier": 1.1
-    }
+    "name": "Новое",
+    "costModifier": 1.1
   },
   {
-    "ProductPrefix" : {
-      "name": "Б\\У",
-      "costModifier": 0.5
-    }
+    "name": "Б\\У",
+    "costModifier": 0.5
   },
   {
-    "ProductPrefix" : {
-      "name": "С браком",
-      "costModifier": 0.75
-    }
+    "name": "С браком",
+    "costModifier": 0.75
   },
   {
-    "ProductPrefix" : {
-      "name": "В лучшем состоянии",
-      "costModifier": 1.3
-    }
+    "name": "В лучшем состоянии",
+    "costModifier": 1.3
   }
 ]

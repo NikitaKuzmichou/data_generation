@@ -1,86 +1,58 @@
 [
   {
-    "GeneratedProduct" : {
-      "name": "Игральная кость",
-      "basePrice": 0.7
-    }
+    "name": "Игральная кость",
+    "basePrice": 0.7
   },
   {
-    "GeneratedProduct" : {
-      "name": "Набор игральных костей",
-      "basePrice": 3.7
-    }
+    "name": "Набор игральных костей",
+    "basePrice": 3.7
   },
   {
-    "GeneratedProduct" : {
-      "name": "Набор гелевых ручек",
-      "basePrice": 1
-    }
+    "name": "Набор гелевых ручек",
+    "basePrice": 1
   },
   {
-    "GeneratedProduct" : {
-      "name": "Набор для ремонта автомобиля",
-      "basePrice": 42
-    }
+    "name": "Набор для ремонта автомобиля",
+    "basePrice": 42
   },
   {
-    "GeneratedProduct" : {
-      "name": "Набор отвёрток",
-      "basePrice": 39
-    }
+    "name": "Набор отвёрток",
+    "basePrice": 39
   },
   {
-    "GeneratedProduct" : {
-      "name": "Гаечный ключ",
-      "basePrice": 3
-    }
+    "name": "Гаечный ключ",
+    "basePrice": 3
   },
   {
-    "GeneratedProduct" : {
-      "name": "Гвоздодёр",
-      "basePrice": 7.6
-    }
+    "name": "Гвоздодёр",
+    "basePrice": 7.6
   },
   {
-    "GeneratedProduct" : {
-      "name": "Коллекция монет",
-      "basePrice": 1503
-    }
+    "name": "Коллекция монет",
+    "basePrice": 1503
   },
   {
-    "GeneratedProduct" : {
-      "name": "Неоновая лента",
-      "basePrice": 15
-    }
+    "name": "Неоновая лента",
+    "basePrice": 15
   },
   {
-    "GeneratedProduct" : {
-      "name": "Кожаные туфли",
-      "basePrice": 65
-    }
+    "name": "Кожаные туфли",
+    "basePrice": 65
   },
   {
-    "GeneratedProduct" : {
-      "name": "Пострадавший робот boston dynamics",
-      "basePrice": 8080
-    }
+    "name": "Пострадавший робот boston dynamics",
+    "basePrice": 8080
   },
   {
-    "GeneratedProduct" : {
-      "name": "Голосовой помощник Алиса",
-      "basePrice": 963
-    }
+    "name": "Голосовой помощник Алиса",
+    "basePrice": 963
   },
   {
-    "GeneratedProduct" : {
-      "name": "Именная футболка игрока в футбол",
-      "basePrice": 421.32
-    }
+    "name": "Именная футболка игрока в футбол",
+    "basePrice": 421.32
   },
   {
-    "GeneratedProduct": {
-      "name": "Уникальная кассетная запись ТВ передачи",
-      "basePrice": 99.99
-    }
+    "name": "Уникальная кассетная запись ТВ передачи",
+    "basePrice": 99.99
   }
 ]

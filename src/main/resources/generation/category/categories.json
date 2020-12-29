@@ -1,62 +1,42 @@
 [
   {
-    "GeneratedCategory": {
-      "id": 1,
-      "name": "Компьютерные комплектующие"
-    }
+    "id": 1,
+    "name": "Компьютерные комплектующие"
   },
   {
-    "GeneratedCategory": {
-      "id": 2,
-      "name": "Книги"
-    }
+    "id": 2,
+    "name": "Книги"
   },
   {
-    "GeneratedCategory": {
-      "id": 3,
-      "name": "Фильмы"
-    }
+    "id": 3,
+    "name": "Фильмы"
   },
   {
-    "GeneratedCategory": {
-      "id": 4,
-      "name": "Бытовая техника"
-    }
+    "id": 4,
+    "name": "Бытовая техника"
   },
   {
-    "GeneratedCategory": {
-      "id": 5,
-      "name": "Овощи"
-    }
+    "id": 5,
+    "name": "Овощи"
   },
   {
-    "GeneratedCategory": {
-      "id": 6,
-      "name": "Фрукты"
-    }
+    "id": 6,
+    "name": "Фрукты"
   },
   {
-    "GeneratedCategory": {
-      "id": 7,
-      "name": "Спорт товары"
-    }
+    "id": 7,
+    "name": "Спорт товары"
   },
   {
-    "GeneratedCategory": {
-      "id": 8,
-      "name": "Игры"
-    }
+    "id": 8,
+    "name": "Игры"
   },
   {
-    "GeneratedCategory": {
-      "id": 9,
-      "name": "Разное"
-    }
+    "id": 9,
+    "name": "Разное"
   },
   {
-    "GeneratedCategory": {
-      "id": 10,
-      "name": "Для дома"
-    }
+    "id": 10,
+    "name": "Для дома"
   }
 ]

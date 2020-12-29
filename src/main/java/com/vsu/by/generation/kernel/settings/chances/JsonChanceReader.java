@@ -16,15 +16,15 @@ public class JsonChanceReader {
             props.load(fis);
             Map<String, Double> genChances = new HashMap<>();
             genChances.put("category",
-                           Double.parseDouble(props.get("category")));
+                           Double.parseDouble(props.get("category").toString()));
             genChances.put("customer",
-                           Double.parseDouble(props.get("customer")));
+                           Double.parseDouble(props.get("customer").toString()));
             genChances.put("product",
-                           Double.parseDouble(props.get("product")));
+                           Double.parseDouble(props.get("product").toString()));
             genChances.put("purchase",
-                           Double.parseDouble(props.get("purchase")));
+                           Double.parseDouble(props.get("purchase").toString()));
             genChances.put("seller",
-                           Double.parseDouble(props.get("seller")));
+                           Double.parseDouble(props.get("seller").toString()));
             return genChances;
         } catch (final Exception e) {
             System.err.println(e.getMessage());

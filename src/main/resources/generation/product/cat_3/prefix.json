@@ -1,32 +1,22 @@
 [
   {
-    "ProductPrefix" : {
-      "name": "Увидеть первым",
-      "costModifier": 2.0
-    }
+    "name": "Увидеть первым",
+    "costModifier": 2.0
   },
   {
-    "ProductPrefix" : {
-      "name": "Лучший выбор",
-      "costModifier": 1.5
-    }
+    "name": "Лучший выбор",
+    "costModifier": 1.5
   },
   {
-    "ProductPrefix" : {
-      "name": "Уникальное предложение",
-      "costModifier": 1.3
-    }
+    "name": "Уникальное предложение",
+    "costModifier": 1.3
   },
   {
-    "ProductPrefix" : {
-      "name": "Впервые в прокате",
-      "costModifier": 1.25
-    }
+    "name": "Впервые в прокате",
+    "costModifier": 1.25
   },
   {
-    "ProductPrefix" : {
-      "name": "Не стареющая классика",
-      "costModifier": 0.75
-    }
+    "name": "Не стареющая классика",
+    "costModifier": 0.75
   }
 ]

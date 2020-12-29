@@ -1,80 +1,54 @@
 [
   {
-    "GeneratedProduct" : {
-      "name": "Арбуз",
-      "basePrice": 3
-    }
+    "name": "Арбуз",
+    "basePrice": 3
   },
   {
-    "GeneratedProduct" : {
-      "name": "Дыня",
-      "basePrice": 4
-    }
+    "name": "Дыня",
+    "basePrice": 4
   },
   {
-    "GeneratedProduct" : {
-      "name": "Груша",
-      "basePrice": 1.5
-    }
+    "name": "Груша",
+    "basePrice": 1.5
   },
   {
-    "GeneratedProduct" : {
-      "name": "Виноград",
-      "basePrice": 3.4
-    }
+    "name": "Виноград",
+    "basePrice": 3.4
   },
   {
-    "GeneratedProduct" : {
-      "name": "Яблоки",
-      "basePrice": 5.4
-    }
+    "name": "Яблоки",
+    "basePrice": 5.4
   },
   {
-    "GeneratedProduct" : {
-      "name": "Вишня",
-      "basePrice": 3.2
-    }
+    "name": "Вишня",
+    "basePrice": 3.2
   },
   {
-    "GeneratedProduct" : {
-      "name": "Лимон",
-      "basePrice": 6
-    }
+    "name": "Лимон",
+    "basePrice": 6
   },
   {
-    "GeneratedProduct" : {
-      "name": "Мандарин",
-      "basePrice": 3.3
-    }
+    "name": "Мандарин",
+    "basePrice": 3.3
   },
   {
-    "GeneratedProduct" : {
-      "name": "Апельсин",
-      "basePrice": 4.6
-    }
+    "name": "Апельсин",
+    "basePrice": 4.6
   },
   {
-    "GeneratedProduct" : {
-      "name": "Нектарин",
-      "basePrice": 3.9
-    }
+    "name": "Нектарин",
+    "basePrice": 3.9
   },
   {
-    "GeneratedProduct" : {
-      "name": "Персик",
-      "basePrice": 7.5
-    }
+    "name": "Персик",
+    "basePrice": 7.5
   },
   {
-    "GeneratedProduct" : {
-      "name": "Ананас",
-      "basePrice": 10
-    }
+    "name": "Ананас",
+    "basePrice": 10
   },
   {
-    "GeneratedProduct" : {
-      "name": "Абрикос",
-      "basePrice": 4.2
-    }
+    "name": "Абрикос",
+    "basePrice": 4.2
   }
 ]

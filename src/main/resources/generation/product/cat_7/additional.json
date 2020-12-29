@@ -1,32 +1,27 @@
 [
   {
-    "ProductAdditional" : {
-      "name": "от известнейшей фирмы",
-      "costModifier": 3.0
-    }
+
+    "name": "от известнейшей фирмы",
+    "costModifier": 3.0
   },
   {
-    "ProductAdditional" : {
-      "name": "с минимальными функциями",
-      "costModifier": 1.0
-    }
+
+    "name": "с минимальными функциями",
+    "costModifier": 1.0
   },
   {
-    "ProductAdditional" : {
-      "name": "со всеми возможными дополнениями",
-      "costModifier": 3.5
-    }
+
+    "name": "со всеми возможными дополнениями",
+    "costModifier": 3.5
   },
   {
-    "ProductAdditional" : {
-      "name": "для среднего ценового сегмента",
-      "costModifier": 1.75
-    }
+
+    "name": "для среднего ценового сегмента",
+    "costModifier": 1.75
   },
   {
-    "ProductAdditional" : {
-      "name": "неизвестный производитель",
-      "costModifier": 0.7
-    }
+
+    "name": "неизвестный производитель",
+    "costModifier": 0.7
   }
 ]

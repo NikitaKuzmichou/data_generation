@@ -8,12 +8,13 @@ import java.nio.charset.Charset;
 import java.nio.file.InvalidPathException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import static java.nio.file.Files.write;
 
 public class Files {
 
     public static void writeFile(String filePath, byte[] bytes)
                                                            throws IOException {
-        java.nio.file.Files.write(Paths.get(filePath), bytes);
+        write(Paths.get(filePath), bytes);
     }
 
     public static void writeFile(String filePath, String content)

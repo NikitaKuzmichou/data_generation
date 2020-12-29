@@ -1,50 +1,34 @@
 [
   {
-    "GeneratedProduct" : {
-      "name": "Бетономешалка",
-      "basePrice": 356
-    }
+    "name": "Бетономешалка",
+    "basePrice": 356
   },
   {
-    "GeneratedProduct" : {
-      "name": "Кофемашина",
-      "basePrice": 224
-    }
+    "name": "Кофемашина",
+    "basePrice": 224
   },
   {
-    "GeneratedProduct" : {
-      "name": "Стиральная машина",
-      "basePrice": 436
-    }
+    "name": "Стиральная машина",
+    "basePrice": 436
   },
   {
-    "GeneratedProduct" : {
-      "name": "Миксер",
-      "basePrice": 40
-    }
+    "name": "Миксер",
+    "basePrice": 40
   },
   {
-    "GeneratedProduct" : {
-      "name": "Колонки",
-      "basePrice": 67
-    }
+    "name": "Колонки",
+    "basePrice": 67
   },
   {
-    "GeneratedProduct" : {
-      "name": "Духовой шкаф",
-      "basePrice": 444
-    }
+    "name": "Духовой шкаф",
+    "basePrice": 444
   },
   {
-    "GeneratedProduct" : {
-      "name": "Микроволновая печь",
-      "basePrice": 375
-    }
+    "name": "Микроволновая печь",
+    "basePrice": 375
   },
   {
-    "GeneratedProduct" : {
-      "name": "Соковыжималка",
-      "basePrice": 150
-    }
+    "name": "Соковыжималка",
+    "basePrice": 150
   }
 ]

@@ -1,32 +1,22 @@
 [
   {
-    "ProductPrefix" : {
-      "name": "Обычное издание",
-      "costModifier": 1
-    }
+    "name": "Обычное издание",
+    "costModifier": 1
   },
   {
-    "ProductPrefix" : {
-      "name": "Коллекционное издание",
-      "costModifier": 5
-    }
+    "name": "Коллекционное издание",
+    "costModifier": 5
   },
   {
-    "ProductPrefix" : {
-      "name": "Уникальное издание",
-      "costModifier": 10
-    }
+    "name": "Уникальное издание",
+    "costModifier": 10
   },
   {
-    "ProductPrefix" : {
-      "name": "Предзаказ",
-      "costModifier": 1.2
-    }
+    "name": "Предзаказ",
+    "costModifier": 1.2
   },
   {
-    "ProductPrefix" : {
-      "name": "Версия с поддержкой издателя",
-      "costModifier": 1.5
-    }
+    "name": "Версия с поддержкой издателя",
+    "costModifier": 1.5
   }
 ]

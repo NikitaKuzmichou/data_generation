@@ -1,74 +1,50 @@
 [
   {
-    "GeneratedProduct" : {
-      "name": "Зелёная миля",
-      "basePrice": 15
-    }
+    "name": "Зелёная миля",
+    "basePrice": 15
   },
   {
-    "GeneratedProduct" : {
-      "name": "Побег из Шоушенка",
-      "basePrice": 17
-    }
+    "name": "Побег из Шоушенка",
+    "basePrice": 17
   },
   {
-    "GeneratedProduct" : {
-      "name": "Интерстеллар",
-      "basePrice": 20
-    }
+    "name": "Интерстеллар",
+    "basePrice": 20
   },
   {
-    "GeneratedProduct" : {
-      "name": "Форест Гамп",
-      "basePrice": 25
-    }
+    "name": "Форест Гамп",
+    "basePrice": 25
   },
   {
-    "GeneratedProduct" : {
-      "name": "Аватар",
-      "basePrice": 23
-    }
+    "name": "Аватар",
+    "basePrice": 23
   },
   {
-    "GeneratedProduct" : {
-      "name": "1+1",
-      "basePrice": 30
-    }
+    "name": "1+1",
+    "basePrice": 30
   },
   {
-    "GeneratedProduct" : {
-      "name": "Властелин колец: две крепости",
-      "basePrice": 40
-    }
+    "name": "Властелин колец: две крепости",
+    "basePrice": 40
   },
   {
-    "GeneratedProduct" : {
-      "name": "Клаус",
-      "basePrice": 10
-    }
+    "name": "Клаус",
+    "basePrice": 10
   },
   {
-    "GeneratedProduct" : {
-      "name": "Назад в будущее",
-      "basePrice": 5
-    }
+    "name": "Назад в будущее",
+    "basePrice": 5
   },
   {
-    "GeneratedProduct" : {
-      "name": "Большой куш",
-      "basePrice": 43
-    }
+    "name": "Большой куш",
+    "basePrice": 43
   },
   {
-    "GeneratedProduct" : {
-      "name": "Джентельмены",
-      "basePrice": 32
-    }
+    "name": "Джентельмены",
+    "basePrice": 32
   },
   {
-    "GeneratedProduct" : {
-      "name": "Леон",
-      "basePrice": 21
-    }
+    "name": "Леон",
+    "basePrice": 21
   }
 ]
